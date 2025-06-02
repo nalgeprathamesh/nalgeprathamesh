@@ -16,22 +16,11 @@ I'm **Prathamesh Nalge**, a 17-year-old aspiring CS student from India with an *
 
 ---
 
-## 🛠️ What I’m Working On
-
-I don't just learn concepts — I bring them to life with code:
-
-- 🧪 **Python Projects:** Games, tools, and automation scripts
-- 🤖 **AI Experiments:** Chatbots, voice assistants, and more
-- 📊 **Learning Logs:** Markdown notes and summaries for others to learn from too
-- 📦 Explore all of it in my [Projects Repository](https://github.com/nalgeprathamesh/projects)
-
----
-
 ## ✅ The Transparency Manifesto
 
 > **Transparency matters more than pretending to be perfect.**
 
-Every project folder includes a special file: `transparency.md`  
+Every project folder includes a special file: transparency.md  
 It clearly outlines how the code was created:
 
 - ✅ **Code written entirely by me**
@@ -44,6 +33,17 @@ This honest system shows what’s **original**, what’s **assisted**, and what�
 Also included in this profile:
 - 🔒 A **proof-of-ownership document** to protect authorship and intellectual rights
 - 📜 A **custom LICENSE** allowing learning, remixing, and fair use — but restricting full file copying without permission
+
+---
+
+## 🛠️ What I’m Working On
+
+I don't just learn concepts — I bring them to life with code:
+
+- 🧪 **Python Projects:** Games, tools, and automation scripts
+- 🤖 **AI Experiments:** Chatbots, voice assistants, and more
+- 📊 **Learning Logs:** Markdown notes and summaries for others to learn from too
+- 📦 Explore all of it in my [Projects Repository](https://github.com/nalgeprathamesh/projects)
 
 ---
 
