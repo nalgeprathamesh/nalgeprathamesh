@@ -23,7 +23,7 @@ I don't just learn concepts — I bring them to life with code:
 - 🧪 **Python Projects:** Games, tools, and automation scripts
 - 🤖 **AI Experiments:** Chatbots, voice assistants, and more
 - 📊 **Learning Logs:** Markdown notes and summaries for others to learn from too
-- 📦 Explore all of it in my [Projects Repository](https://github.com/prathameshnalge/projects)
+- 📦 Explore all of it in my [Projects Repository](https://github.com/nalgeprathamesh/projects)
 
 ---
 
@@ -63,7 +63,7 @@ I believe in:
 
 A few highlights from my repo jungle:
 
-- 🤖 [`Jarvis AI`](https://github.com/prathameshnalge/projects) – Voice assistant that listens, replies & helps
+- 🤖 [`Jarvis AI`](https://github.com/nalgeprathamesh/projects) – Voice assistant that listens, replies & helps
 - 🎮 `Mini Games` – Rock Paper Scissors, Dungeon Adventure & more
 - 🧠 `Auto-Reply Chatbot` – Simple messaging automation experiment
 - 📝 `Learning Logs` – Clean notes & summaries from courses like CS50
@@ -72,8 +72,8 @@ A few highlights from my repo jungle:
 
 ## 📈 GitHub Stats & Activity
 
-![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshnalge&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshnalge&layout=compact&theme=radical)
+![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalgeprathamesh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalgeprathamesh&layout=compact&theme=radical)
 
 ---
 
@@ -90,7 +90,7 @@ A few highlights from my repo jungle:
 
 - 📬 Email: [prathameshnalgenew@gmail.com](mailto:prathameshnalgenew@gmail.com)
 - 📺 YouTube: *New AI-focused channel launching soon*
-- 🛠️ Projects: [Main Repo](https://github.com/prathameshnalge/projects)
+- 🛠️ Learning: [Main Repo](https://github.com/nalgeprathamesh/learning)
 
 > Got ideas, feedback, or just want to chat? I’m always down to talk tech, philosophy, cycling, or code 😄
 
