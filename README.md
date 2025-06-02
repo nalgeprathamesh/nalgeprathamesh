@@ -8,7 +8,7 @@
 
 I'm **Prathamesh Nalge**, a 17-year-old aspiring CS student from India with an *unshakable love for building things that matter*. Whether it's **automating tasks**, **crafting games**, or **learning how AI thinks**, I’m constantly evolving my skills through real-world projects and self-driven learning.
 
-- 🎓 Preparing for **IPMAT, SAT**, and **engineering journey ahead**
+- 🎓 Preparing for **SAT, Youtube channel about AI Ethics and Use**, and **engineering journey ahead**
 - 💻 Learning Python, CS fundamentals, and AI through **CS50**, **CodeWithHarry**, and books
 - 📺 I run a **YouTube channel** that still gets over **25k views/month**, even while I’m inactive
 - 📚 Fan of books like *Atomic Habits* and *Sapiens*
